@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jobportal/static/css/main.c812dc9b.css",
+    "main.js": "/jobportal/static/js/main.d4ad3589.js",
+    "static/js/787.82a51979.chunk.js": "/jobportal/static/js/787.82a51979.chunk.js",
+    "static/media/sky1.jpg": "/jobportal/static/media/sky1.7f33babf2715f8b48f3c.jpg",
+    "static/media/resume.pdf": "/jobportal/static/media/resume.6f441d14ba633eda4d91.pdf",
+    "static/media/jobs.svg": "/jobportal/static/media/jobs.6a377e52740408f6dca3cdd02e07789d.svg",
+    "static/media/interview.svg": "/jobportal/static/media/interview.00041f22079095c1dec852f617ea15bf.svg",
+    "static/media/recruiter1.svg": "/jobportal/static/media/recruiter1.e9ce0a81cef56b8b002ad889eeb44bef.svg",
+    "static/media/home1.svg": "/jobportal/static/media/home1.d723edf07b3a4df9be9647ffbe504ad1.svg",
+    "static/media/register.svg": "/jobportal/static/media/register.daea9a93a6932340717b62f310563e61.svg",
+    "static/media/login.svg": "/jobportal/static/media/login.108c59fad44b6507d58b167574edb63e.svg",
+    "index.html": "/jobportal/index.html",
+    "main.c812dc9b.css.map": "/jobportal/static/css/main.c812dc9b.css.map",
+    "main.d4ad3589.js.map": "/jobportal/static/js/main.d4ad3589.js.map",
+    "787.82a51979.chunk.js.map": "/jobportal/static/js/787.82a51979.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c812dc9b.css",
+    "static/js/main.d4ad3589.js"
+  ]
+}
