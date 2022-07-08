@@ -1,38 +1,141 @@
-.App {
-  text-align: center;
+.left {
+  height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.active {
+  background-color: rgb(138, 43, 226) !important;
+  color: #fff !important;
+  text-decoration: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+input:focus {
+  outline: none !important;
+  border: 3px solid #333 !important;
+  /* border: none !important; */
+  /* box-shadow: 0px 0px 0px 3px black inset !important; */
 }
+input {
+  outline: none !important;
+}
+.bg-secondary {
+  background-color: rgba(109, 105, 105, 0.724);
+}
+.gradient-1 {
+  background: linear-gradient(to top right, #ffa8a8, #fa5252);
+}
+.gradient-2 {
+  background: linear-gradient(to top right, #f783ac, #fcc2d7);
+}
+.gradient-3 {
+  background: linear-gradient(to right, #e599f7, #c0eb75);
+}
+.fa-2xl {
+  vertical-align: middle;
+}
+.companyLogo {
+  display: block;
+  width: 14rem;
+  height: auto;
+}
+.box-sizing {
+  overflow-x: hidden;
+}
+.infosys {
+  width: 12rem;
+  height: auto;
+}
+.background {
+  height: 100%;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.background-3 {
+  background-image: url(C:\Users\hp\OneDrive\Desktop\jobportal\src\images\sky1.jpg);
+}
+.background-1 {
+  background-image: url(C:\Users\hp\OneDrive\Desktop\jobportal\src\images\space.jpg);
+}
+.background-2 {
+  background-image: url(C:\Users\hp\OneDrive\Desktop\jobportal\src\images\space1.jpg);
+}
+.large-text {
+  font-size: 3rem;
+}
+.svg-md {
+  width: 18rem;
+  height: 18rem;
+}
+.border-radius-2 {
+  border-radius: 2rem !important;
+}
+.lh-1 {
+  line-height: -0.5;
+}
+.margin-y-lg {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+.margin-x-lg {
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+.margin-x-xl {
+  margin-left: 9rem;
+  margin-right: 9rem;
+}
+.login-background {
+  background-image: url(C:\Users\hp\OneDrive\Desktop\jobportal\src\images\login.svg);
+}
+.svg-lg {
+  width: 24rem;
+  height: 24rem;
+}
+.light-grey-bg {
+  background-color: #e9ecef;
+}
+.fs-6 {
+  font-size: 0.8rem !important;
+}
+/* .dark-button:hover {
+  background-color: #444 !important;
+} */
+.light-button:hover {
+  background-color: #ccc;
+}
+.svg-home1 {
+  width: auto !important;
+  height: 16rem !important;
+}
+.flex-center {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.overflow-hidden {
+  overflow: hidden;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.fit-content {
+  width: fit-content !important;
+}
+body {
+  padding-top: 4.3rem !important;
+}
+Button {
+  padding: 0.6rem 1rem 0.6rem 1rem !important;
+  border-top: 1px solid black;
+}
+.footer-bg {
+  background-color: #f8f9fade;
+}
+button:hover {
+  background-color: rgb(138, 43, 226) !important;
+}
+.blue-violet {
+  color: rgb(138, 43, 226) !important;
+}
+.blue-violet-bg {
+  background-color: blueviolet;
 }
