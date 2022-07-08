@@ -1,7 +1,7 @@
 {
   "name": "jobportal",
   "version": "0.1.0",
-  "homepage": "https://jobportal.github.io",
+  "homepage": "https://kishorekiu.github.io/jobportal",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
